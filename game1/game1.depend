@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1692112167 source:d:\code\c\¿ÎºóÁ·Ï°\game1\test.c
+	<stdio.h>
+	<time.h>
+	"game.h"
+
+1692112530 source:d:\code\c\¿ÎºóÁ·Ï°\game1\game.c
+	"game.h"
+
+1692112530 d:\code\c\¿ÎºóÁ·Ï°\game1\game.h
+
